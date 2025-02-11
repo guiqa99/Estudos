@@ -1,2 +1,2 @@
 # Estudos
- Curso em Vídeo
+ Curso em Vídeo!
